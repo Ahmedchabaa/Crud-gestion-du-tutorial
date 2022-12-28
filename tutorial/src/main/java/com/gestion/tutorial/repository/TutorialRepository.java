@@ -1,4 +1,4 @@
-package com.gestion.tutorial;
+package com.gestion.tutorial.repository;
 
 import java.util.List;
 
